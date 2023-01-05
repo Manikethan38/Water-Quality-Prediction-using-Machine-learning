@@ -1,4 +1,4 @@
-# Water-Quality-Prediction-
+# Water Quality Prediction
 Completed this project as part of my Data Science and Machine Learning Internship with United Network of Professionals (UNP). Key highlights:
 
 Studied and Analyzed the Water Quality Prediction to applying ML models and present my insights.
