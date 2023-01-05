@@ -6,7 +6,8 @@ Studied and Analyzed the Water Quality Prediction to applying ML models and pres
 Performed various Exploratory Data Analysis to understand the data and compare the variables.
 
 Experimented with different Machine Learning algorithms, Logistic Regression, Neural Networks, Bagging, and Boosting.
-Compared the results to recommend the best Regression model.
+
+Compared the results to recommend the best Machine learning model.
 
 COLAB NOTEBOOK LINK:
 https://github.com/Manikethan38/WATER-QUALITY-PREDICTION/blob/main/WATER_QUALITY_PREDICTION_.ipynb
